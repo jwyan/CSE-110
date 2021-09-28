@@ -43,10 +43,13 @@ My goals for this class are
 - [ ] create a project that I am proud of 
 - [ ] learn a lot but have fun as well 
 
+## Credits and Links
+
 The links to each section can be found here:
 - [about me](https://jwyan.github.io/CSE-110/#about-me)
 - [favorite movies](https://jwyan.github.io/CSE-110/#favorite-movies)
 - [skills and goals](https://jwyan.github.io/CSE-110/#skills-and-goals)
+- [credits and links](https://jwyan.github.io/CSE-110/#credits-and-links)
 
 This page was created with the help of [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
