@@ -1,6 +1,6 @@
 # Julian's User Page 
 
-## About Me [section link](https://jwyan.github.io/CSE-110/#about-me)
+## About Me
 
 *I am currently a 4th year Math-CS major studying at the Univerisity of California, San Diego.*
 
