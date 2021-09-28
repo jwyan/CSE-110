@@ -1,8 +1,8 @@
-# Julian's User Page
+# Julian's User Page 
 
-## About Me
+## About Me [section link](https://jwyan.github.io/CSE-110/#about-me)
 
-*I am currently a 4th year Math-CS major studying at the Univerisity of California, San Diego*
+*I am currently a 4th year Math-CS major studying at the Univerisity of California, San Diego.*
 
 One of my favorite quotes is by **Eleanor Roosevelt**: 
 > The future belongs to those who belive in the beauty of their dreams.
@@ -43,7 +43,10 @@ My goals for this class are
 - [ ] create a project that I am proud of 
 - [ ] learn a lot but have fun as well 
 
-
+The links to each section can be found here:
+- [about me](https://jwyan.github.io/CSE-110/#about-me)
+- [favorite movies](https://jwyan.github.io/CSE-110/#favorite-movies)
+- [skills and goals](https://jwyan.github.io/CSE-110/#skills-and-goals)
 
 This page was created with the help of [GitHub Docs](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
